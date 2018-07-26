@@ -1,0 +1,1 @@
+this.proto = document.getElementById('prototype').addEventListener('click', function() { document.location = "https://projects.invisionapp.com/d/main#/console/14611844/307443586/preview"; })
